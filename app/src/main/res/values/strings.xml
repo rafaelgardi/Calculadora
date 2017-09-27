@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="bt_soma">Somar</string>
+</resources>
